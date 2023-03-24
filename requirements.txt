@@ -62,7 +62,7 @@ Pygments
 pyrsistent
 python-dateutil
 pytz==2022.7.1
-pywin32==305.1
+#pywin32==305.1
 pywinpty
 pyzmq
 Send2Trash
