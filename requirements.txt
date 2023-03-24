@@ -19,6 +19,7 @@ executing
 fastjsonschema
 Flask==2.2.3
 flit_core
+gunicorn
 idna
 importlib-metadata==6.1.0
 importlib-resources
