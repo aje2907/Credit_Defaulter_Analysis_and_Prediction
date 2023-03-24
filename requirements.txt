@@ -66,6 +66,7 @@ pytz==2022.7.1
 #pywin32==305.1
 #pywinpty
 pyzmq
+scikit-learn
 Send2Trash
 six
 sklearn==0.0.post1
